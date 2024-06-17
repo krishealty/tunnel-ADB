@@ -1,13 +1,8 @@
 #!/bin/bash
-#Tool = tunnel-ADB V2.1
-#Author = ASHWINI SAHU
-#Date = 07/02/2020
-#Written in Bash
-#"ONLY FOR EDUCATIONAL PURPOSE"
 
-current_version=2.32
+current_version=0.0.1
 
-echo -e "tunnel-ADB by ASHWINI SAHU\n\n"
+echo -e "tunnel-ADB by Krish Lalwani\n\n"
 
 echo -e "Checking for new version\n\n"
 
@@ -28,7 +23,7 @@ check_new_version () {
 check_new_version
 
 if [ $(id -u) -ne 0 ]; then
-        echo "THIS SCRIPT MUST BE RAN AS ROOT"
+        echo "THIS SCRIPT MUST BE RAN AS ROOT, IGNORE IF USING TERMUX"
         
 fi
 
@@ -87,6 +82,6 @@ echo -e "\e[1;93m
 
 \e[0m"
 echo
-echo -e "\e[93mMade with ❤️ by \e[1;91mASHWINI SAHU\e[0m"
+echo -e "\e[93mProgram by \e[1;91mkrishealty\e[0m"
 }
-bash modules/funtion.sh
+bash modules/function.sh
