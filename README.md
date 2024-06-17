@@ -1,49 +1,45 @@
 <div align="center" markdown="1">
 
 [![Version: 0.0.1](https://img.shields.io/badge/Version%3F-0.0.1-green.svg)](https://github.com/krishealty/tunnel-ADB)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishealty%2Ftunnel-ADB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://krish.l5.ca)
 
 </div>
-
 
 <p align="center">
   <a href="https://github.com/krishealty/tunnel-ADB">
     <img align="center" src="screenshots/tunnel-ADB-Banner.png" alt="tunnel-ADB-Banner"></a><br>
   </a>
   <a href="https://github.com/krishealty/tunnel-ADB">
-   <h1 align="center">tunnel-ADB</h1>
   </a>
-  <h4 align="center"><b>
-  Simple ADB toolkit to penetrate Android device using Android Debug Bridge.
-  </b></h4>
   </p>
+  
+## tunnel-ADB
 
-**tunnel-ADB divided into 28 options with a METASPLOIT Section and other 6 options to penetrate different areas of android device.**
+**Simple ADB toolkit to penetrate Android device using Android Debug Bridge. tunnel-ADB divided into 28 options with a METASPLOIT Section and other 6 options to penetrate different areas of android device.**
 
 
 **METASPLOIT SECTION:** This consists of scripts which are related to metasploit payload and you can create, install and launch a payload without physically connecting the subject's device.
 
 ## Features
 
-Copy specific folder, file, document or full phone storage.
-Install, Uninstall and Launch any application.
-Check Root Status of subject's phone.
-Hard Crashing the phone (Root).
-Send SMS from subject's phone.
-Multi device support.
-Support to Arch, Fedora, Centos.
-Flexibility during restarting ADB server.
-Simplified Remote connection establishment.
-Specified directories for the data.
-Copy all camera photos.
-Copy WhatsApp data.
-Reboot fastboot or Recovery mode.           
-Dump system information.
-Dump CPU information.
-Dump memory information.
-Dump contacts.
-Live log of phone sessions.
+- Copy specific folder, file, document or full phone storage.
+- Install, Uninstall and Launch any application.
+- Check Root Status of subject's phone.
+- Hard Crashing the phone (Root).
+- Send SMS from subject's phone.
+- Multi device support.
+- Support to Arch, Fedora, Centos.
+- Flexibility during restarting ADB server.
+- Simplified Remote connection establishment.
+- Specified directories for the data.
+- Copy all camera photos.
+- Copy WhatsApp data.
+- Reboot fastboot or Recovery mode.          
+- Dump system information.
+- Dump CPU information.
+- Dump memory information.
+- Dump contacts.
+- Live log of phone sessions.
 
 ## Prerequisites
 
