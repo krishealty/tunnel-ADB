@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo
+echo -e "\e[1;37mAuthor name: \e[1;4;91mKrish Lalwani\e[0m"
+echo -e
+
+echo -e "\e[1;37mTool name: \e[1;4;91mADB-Toolkit\e[0m"
+echo -e
+
+echo -e "\e[1;37mGithub: \e[1;91mhttps://github.com/krishealty\e[0m"
+echo -e
+
+
+echo -e "\e[1;37mLanguage: \e[1;91mBASH\e[0m"
+echo
+echo
+echo
+bash modules/funtion.sh
