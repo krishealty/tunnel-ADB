@@ -35,7 +35,7 @@ option2_list () {
         echo -e "\e[93mMaintained by \e[1;91mkrishealty\e[0m\n\n"
         echo -e "\e[1;4;93mCHOOSE THE OPTIONS GIVEN BELOW\e[0m\n\n"
         echo -e "\e[1;93m1.   \e[1;92mSHOW CONNECTED DEVICES"
-        echo -e "\e[1;93m2.   \e[1;92mCREATE AND INSTALL METAPLOIT PAYLOAD \e[1;93m( .apk )"
+        echo -e "\e[1;93m2.   \e[1;92mCREATE AND INSTALL METASPLOIT PAYLOAD \e[1;93m( .apk )"
         echo -e "\e[1;93m3.   \e[1;92mLAUNCH THE METASPLOIT PACKAGE \e[1;93m( .apk )"
         echo -e "\n\e[1;93m4.   \e[1;92mLAUNCH THE METASPLOIT LISTNER \e[1;93m( .apk )"
         echo -e "\n\e[1;93m5.   \e[1;92mGO BACK TO tunnel-ADB"
