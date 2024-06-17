@@ -13,7 +13,6 @@ help () {
 echo -e "To install tunnel-ADB use :- \n\e[1;91m sudo bash $0 install \e[92mor \e[1;91msudo bash $0 -i \e[92mor \e[1;91msudo bash $0 -install"
 
 }
-fi
 opt_install () {
 
         distro=$(awk '/^ID_LIKE=/' /etc/*-release | awk -F'=' '{ print tolower($2) }')
