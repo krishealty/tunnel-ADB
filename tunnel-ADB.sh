@@ -29,7 +29,7 @@ check_new_version
 
 if [ $(id -u) -ne 0 ]; then
         echo "THIS SCRIPT MUST BE RAN AS ROOT"
-        exit 1
+        
 fi
 
 if [ -d $PWD/.temp/ ]
