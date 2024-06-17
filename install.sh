@@ -4,7 +4,7 @@ echo -e "Argument used '$1'\n"
 
 if [ $(id -u) -ne 0 ]; then
         echo -e "\e[1;91mTHE INSTALLATION SCRIPT MUST BE RAN AS ROOT, IGNORE IF USING IN TERMUX.\e[0m"
-        exit 1
+        
 fi
 
 
