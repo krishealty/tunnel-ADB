@@ -99,7 +99,7 @@ git clone https://github.com/krishealty/tunnel-ADB.git
 ```
 
 ```
-tunnel-ADB
+cd tunnel-ADB
 ```
 
 ```
@@ -107,7 +107,7 @@ chmod +x install.sh
 ```
 
 ```
-install.sh
+bash install.sh
 ```
 
 **Start the Script**
@@ -119,15 +119,15 @@ bash tunnel-ADB.sh
 ## tunnel-ADB Screenshot
 
 <p align="center">
-    <img align="center" src="20240617_133503.jpg"><br>
+    <img align="center" src="screenshots/20240617_133503.jpg"><br>
 </p>
 
 ## Metasploit Section Screenshot
 
 <p align="center">
-    <img align="center" src="git4.jpeg"><br><br>
-    <img align="center" src="20240617_133542.jpg"><br><br>
-    <img align="center" src="git3.jpeg"><br><br>
+    <img align="center" src="screenshots/git4.jpeg"><br><br>
+    <img align="center" src="screenshots/20240617_133542.jpg"><br><br>
+    <img align="center" src="screenshots/git3.jpeg"><br><br>
 </p>
 
 
