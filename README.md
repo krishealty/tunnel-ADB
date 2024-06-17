@@ -1,7 +1,7 @@
 <div align="center" markdown="1">
 
 [![Version: 0.0.1](https://img.shields.io/badge/Version%3F-0.0.1-green.svg)](https://github.com/krishealty/tunnel-ADB)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishealty%2Ftunnel-ADB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://krish.l5.ca)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishealty%2Ftunnel-ADB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Commits&edge_flat=false)](https://krish.l5.ca)
 
 </div>
 
