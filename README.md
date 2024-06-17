@@ -1,9 +1,8 @@
 <div align="center" markdown="1">
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Version: 2.3](https://img.shields.io/badge/Version%3F-2.3-green.svg)](https://github.com/krishealty/tunnel-ADB)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/krishealty/tunnel-ADB/graphs/commit-activity)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishealty%2Ftunnel-ADB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://ashwini.codes)
+[![Version: 0.0.1](https://img.shields.io/badge/Version%3F-0.0.1-green.svg)](https://github.com/krishealty/tunnel-ADB)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkrishealty%2Ftunnel-ADB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://krish.l5.ca)
 
 </div>
 
