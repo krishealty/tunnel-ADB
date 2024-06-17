@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/krishealty/tunnel-ADB">
-    <img align="center" src="screenshots/tunnel-ADB-Banner.png" alt="tunnel-ADB-Banner" border="0" height="320px" width="640"></a><br>
+    <img align="center" src="screenshots/tunnel-ADB-Banner.png" alt="tunnel-ADB-Banner"></a><br>
   </a>
   <a href="https://github.com/krishealty/tunnel-ADB">
    <h1 align="center">tunnel-ADB</h1>
@@ -119,15 +119,15 @@ bash tunnel-ADB.sh
 ## tunnel-ADB Screenshot
 
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/krishealty/tunnel-ADB/master/screenshots/git1.jpeg"><br>
+    <img align="center" src="20240617_133503.jpg"><br>
 </p>
 
 ## Metasploit Section Screenshot
 
 <p align="center">
-    <img align="center" src="https://raw.githubusercontent.com/krishealty/tunnel-ADB/master/screenshots/git2.jpeg"><br><br>
-    <img align="center" src="https://raw.githubusercontent.com/krishealty/tunnel-ADB/master/screenshots/git3.jpeg"><br><br>
-    <img align="center" src="https://raw.githubusercontent.com/krishealty/tunnel-ADB/master/screenshots/git4.jpeg"><br><br>
+    <img align="center" src="git4.jpeg"><br><br>
+    <img align="center" src="20240617_133542.jpg"><br><br>
+    <img align="center" src="git3.jpeg"><br><br>
 </p>
 
 
